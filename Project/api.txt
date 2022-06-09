@@ -1,0 +1,5 @@
+// What is API?
+//  API is Type of Data transportation process 
+// Web Design -->API---> Sever and backends
+//  Work with JSON data Format Only
+// JSON Type -->All languages accetable to JSON
